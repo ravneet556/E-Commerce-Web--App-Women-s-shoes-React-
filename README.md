@@ -14,10 +14,10 @@ Can also search and sort for specific product or category.
 Admin can create, edit or delete any product, user or order.
 
 
-SCREEN 1 : Sign UP
+SCREEN 1 : Sign-Up
 ![Screen Shot 2021-04-29 at 6 46 24 AM](https://user-images.githubusercontent.com/33275709/116546093-3668f480-a8bf-11eb-962f-c3b54411e0a5.png)
 
-SCREEN 2 : Sign In
+SCREEN 2 : Sign-In
 
 ![Screen Shot 2021-04-29 at 6 46 58 AM](https://user-images.githubusercontent.com/33275709/116546095-3668f480-a8bf-11eb-850d-32653a3d322a.png)
 
