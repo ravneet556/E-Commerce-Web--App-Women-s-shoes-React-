@@ -37,7 +37,7 @@ SCREEN 6: Shows the total price of all the items in the cart. Can delete the pro
 
 ![Screen Shot 2021-04-29 at 6 47 20 AM](https://user-images.githubusercontent.com/33275709/116546101-379a2180-a8bf-11eb-9abe-14ee0ecbb5cf.png)
 
-SCREEN 7:If cart is empty, on clciking on go shopping button , we can go back to screen 3.
+SCREEN 7:If cart is empty, on clicking on go shopping button , we can go back to screen 3.
 
 ![Screen Shot 2021-04-29 at 6 47 28 AM](https://user-images.githubusercontent.com/33275709/116546103-379a2180-a8bf-11eb-9aee-20f050e18636.png)
 
@@ -49,7 +49,7 @@ SCREEN 9: Can sort the product by price.
 
 ![Screen Shot 2021-04-29 at 6 47 52 AM](https://user-images.githubusercontent.com/33275709/116546107-3832b800-a8bf-11eb-9391-b1fde3871a0e.png)
 
-SCREEN 10:Can sort the product by category.
+SCREEN 10: Can sort the product by category.
 
 ![Screen Shot 2021-04-29 at 6 48 00 AM](https://user-images.githubusercontent.com/33275709/116546109-3832b800-a8bf-11eb-948b-1ba76aeecada.png)
 
@@ -62,9 +62,11 @@ SCREEN 12: Setting up payment method.
 
 ![Screen Shot 2021-04-29 at 6 48 35 AM](https://user-images.githubusercontent.com/33275709/116546112-38cb4e80-a8bf-11eb-8c1e-c20a14423ea7.png)
 
-SCREEN 13: On clickng place order button, order is placed.
+SCREEN 13: On clicking place order button, order is placed.
 
 ![Screen Shot 2021-04-29 at 6 48 42 AM](https://user-images.githubusercontent.com/33275709/116546116-38cb4e80-a8bf-11eb-8b6d-b5860bbc1c2b.png)
+
+
 
 ![Screen Shot 2021-04-29 at 6 48 46 AM](https://user-images.githubusercontent.com/33275709/116546117-3963e500-a8bf-11eb-90db-b7f667f6c567.png)
 
